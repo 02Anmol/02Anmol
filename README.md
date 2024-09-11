@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol Tyagi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alit="coding" width="400" src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952x5p8p7mqvfn63amooe9jpihkxyzslr4minqx28u0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
