@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/anmol_tyagi_01" target="blank"><img src="https://img.shields.io/twitter/follow/anmol_tyagi_01?logo=twitter&style=for-the-badge" alt="anmol_tyagi_01" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Python, Java , JavaScript**
 
 - 📫 How to reach me **tyagianmol839@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny 😅**
+- ⚡ Fun fact **I think DSA is not for me 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
