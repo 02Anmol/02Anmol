@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Tyagi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alit="coding" width="400" src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952x5p8p7mqvfn63amooe9jpihkxyzslr4minqx28u0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
+<img align="right" alit="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThqdXBwNm1pb2FrNHIwdDd6aWN0cG04cTRyYno4bm0zNGlqdGhydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=02anmol&label=Profile%20views&color=0e75b6&style=flat" alt="02anmol" /> </p>
 
